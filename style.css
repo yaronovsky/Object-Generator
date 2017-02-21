@@ -1,0 +1,32 @@
+#hide {
+    display: none;
+}
+
+#wrapper {
+    width: 50%;
+    margin: 100px auto;
+    border: 5px double gray;
+    /*display: flex;*/
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+}
+
+#send {
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+}
+
+#btn {
+    display: block;
+}
+
+#objs {
+    display: flex;
+    flex-flow: column;
+    margin: 0 auto;
+    width: 40%;
+}
